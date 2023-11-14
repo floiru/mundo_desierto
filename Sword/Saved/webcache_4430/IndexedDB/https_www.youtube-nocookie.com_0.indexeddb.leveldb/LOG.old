@@ -1,0 +1,6 @@
+2023/11/14-14:53:06.501 13a8 Creating DB D:/UE_5.2/git_projects/mundo_desierto/Sword/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/11/14-14:53:06.642 13a8 Reusing MANIFEST D:/UE_5.2/git_projects/mundo_desierto/Sword/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/14-14:54:06.942 2e44 Level-0 table #5: started
+2023/11/14-14:54:07.059 2e44 Level-0 table #5: 1167 bytes OK
+2023/11/14-14:54:07.134 2e44 Delete type=0 #3
+2023/11/14-14:54:07.144 2e44 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
